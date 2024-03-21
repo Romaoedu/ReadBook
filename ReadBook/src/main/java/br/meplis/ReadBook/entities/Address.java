@@ -1,20 +1,14 @@
 package br.meplis.ReadBook.entities;
 
 import jakarta.persistence.*;
-@Entity
+
 public class Address {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
     private String street;
     private String city;
     private String state;
     private String country;
 
-    @OneToOne
-    @JoinColumn(name = "reader_id")
-    private Reader reader;
 
     @Deprecated
     public Address(){}
@@ -25,12 +19,7 @@ public class Address {
         this.state = state;
         this.country = country;
     }
-    public Reader getReader() {
-        return reader;
-    }
-    public void setReader(Reader reader) {
-        this.reader = reader;
-    }
+
     public String getStreet() {
         return street;
     }

@@ -1,8 +1,10 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Υ¤8Έοµ€α1
-e
-java:S6355"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(υϊ8Ξ΄ξ€α1
-R
-java:S1133"5Do not forget to remove this deprecated code someday.(Τƒ›8Ξ΄ξ€α1
-E
-java:S1123"(Add the missing @deprecated Javadoc tag.(Τƒ›8Ξ΄ξ€α1
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Υ¤8Έοµ€α1J$99aeab59-44fb-4d1c-91e8-4f8c9b1c9281
+‹
+java:S6355"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(υϊ8Γ®΅γε1J$ea506786-024f-4b8e-a80f-924c6f96a573
+x
+java:S1133"5Do not forget to remove this deprecated code someday.(Τƒ›8Δ®΅γε1J$be3680b1-f6c3-4987-999a-82c2a6c2cbcb
+k
+java:S1123"(Add the missing @deprecated Javadoc tag.(Τƒ›8Ε®΅γε1J$657ebcdd-135c-41c3-a99d-253ce61db335
+x
+java:S1128"0Remove this unused import 'jakarta.persistence'.(Ξ«Τ§ϊÿÿÿÿ8Άγε1J$316c19fb-30f1-4bd6-9d32-38982af02766

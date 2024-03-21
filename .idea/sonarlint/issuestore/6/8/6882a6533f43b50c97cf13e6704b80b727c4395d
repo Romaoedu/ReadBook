@@ -1,8 +1,8 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÕ¤8èŞÊÂâ1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÕ¤8Ë¦âå1J$ca0e4138-40ae-46e4-9a33-1bb92a86f035
 e
-java:S6355"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš8õÍĞÂâ1
+java:S6355"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš8Øï¯™æ1
 R
-java:S1133"5Do not forget to remove this deprecated code someday.(õğ÷è8óŞÊÂâ1
+java:S1133"5Do not forget to remove this deprecated code someday.(õğ÷è8Ùï¯™æ1
 E
-java:S1123"(Add the missing @deprecated Javadoc tag.(õğ÷è8óŞÊÂâ1
+java:S1123"(Add the missing @deprecated Javadoc tag.(õğ÷è8Úï¯™æ1

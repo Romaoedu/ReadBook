@@ -13,7 +13,11 @@ z
 JReadBook/src/main/java/br/meplis/ReadBook/controller/ReaderController.java,b\6\b6991f2898d13f2d7590883a0b5221bde959860d
 @
 ReadBook/pom.xml,8\6\86b14ff7714589c4ac6add052759d3f1cce47477
-p
-@ReadBook/src/test/java/br/meplis/ReadBook/ManagerReaderTest.java,e\7\e7ab534c0b65708de1fcd4e2d19ecf3ae0c29fb0
 w
 GReadBook/src/test/java/br/meplis/ReadBook/ReadBookApplicationTests.java,e\2\e27f4a6205fd31143d59ccfc340f4446d8b0a955
+^
+.ReadBook/.mvn/wrapper/maven-wrapper.properties,0\9\093664843ff1e01baaa5f161a4eed076df0c98f0
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
